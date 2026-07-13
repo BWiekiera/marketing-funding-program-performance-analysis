@@ -286,20 +286,6 @@ Marketing-Funding-Program-Performance-Analysis/
     └── project2_page_5_settlement_risk.png
 ```
 
-## Suggested screenshot names
-
-Use the following file names in the `screenshots` folder:
-
-```text
-project2_main.png
-project2_data_model.png
-project2_page_1_executive_overview.png
-project2_page_2_program_profitability.png
-project2_page_3_initiative_channel.png
-project2_page_4_regional_sales.png
-project2_page_5_settlement_risk.png
-```
-
 ## Notes
 
 The report uses synthetic data created for portfolio purposes. It was built to demonstrate business analysis, data preparation in Power Query, data modeling, DAX measures, dashboard design and management reporting in Power BI.
