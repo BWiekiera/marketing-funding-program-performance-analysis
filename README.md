@@ -196,7 +196,7 @@ ROI, payback and investment efficiency are calculated for matured applications. 
 
 The interactive report is published outside GitHub.
 
-[Open interactive report](https://TUTAJ-WKLEJ-LINK-DO-RAPORTU-KAJODATASPACE)
+[Open interactive report](https://app.powerbi.com/view?r=eyJrIjoiZDYwMjdkMzItMzg4OS00MjAwLTg1MjMtYTYwZTc3MmFjZmYyIiwidCI6ImE0ZmE1ZWNhLTdhM2YtNDRhYS04ZTI4LTc2MjBhMzk0NjEwZiJ9)
 
 If the interactive version is not available, the screenshots in this repository show the report structure and analytical logic.
 
